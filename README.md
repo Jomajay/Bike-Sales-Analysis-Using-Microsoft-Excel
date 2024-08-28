@@ -4,8 +4,8 @@
 ### 🚴‍♂️ Bike Sales Analysis
 
 ---
-### Bike Sales Dasboard
-[View the Bike Sales Dashboard](https://drive.google.com/file/d/1PMddCMPSu6VUX0PKWCnrD4a3zBNK7C6r/view?usp=sharing)
+### Bike Sales Dashboard
+![Bike Sales Dashboard](https://drive.google.com/uc?export=view&id=1PMddCMPSu6VUX0PKWCnrD4a3zBNK7C6r)
 
 ---
 #### 📊 Project Overview
